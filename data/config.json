@@ -1,0 +1,12 @@
+{
+  "config": {
+    "enableBT": 0,
+    "enableWiFi": 1
+  },
+  "operator": {
+    "OperatorID": "WorldDrknss",
+    "OperatorLatitude": 336970783,
+    "OperatorLongitude": -1171853531,
+    "OperatorTimezone": "PDT"
+  }
+}
